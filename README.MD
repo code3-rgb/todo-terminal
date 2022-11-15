@@ -1,1 +1,1 @@
-![Minesweeper Game Screenshot](./todos.png "Graphical Todo in Terminal")
+![Mind Blowing Todo App](./todos.png "Graphical Todo in Terminal")
